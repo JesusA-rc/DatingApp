@@ -480,5 +480,12 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-API/appsettings.json
 API/datingApp.db*
+
+# SSL certificates and keys
+ssl/
+*.pem
+*.key
+*.crt
+*.pfx
+
