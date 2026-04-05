@@ -1,0 +1,80 @@
+[
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440001",
+    "Email": "emma@example.com",
+    "Gender": "female",
+    "DateOfBirth": "2000-03-15",
+    "DisplayName": "Emma Wilson",
+    "Created": "2026-01-15T10:30:00Z",
+    "LastActive": "2026-04-05T09:45:00Z",
+    "Description": "I love hiking and photography. Coffee enthusiast and dog lover.",
+    "City": "Los Angeles",
+    "Country": "USA",
+    "ImageUrl": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440002",
+    "Email": "sophia@example.com",
+    "Gender": "female",
+    "DateOfBirth": "2001-07-22",
+    "DisplayName": "Sophia Martinez",
+    "Created": "2026-01-20T14:20:00Z",
+    "LastActive": "2026-04-05T08:15:00Z",
+    "Description": "Yoga instructor, artist, and travel lover. Let's explore the world together!",
+    "City": "New York",
+    "Country": "USA",
+    "ImageUrl": "https://randomuser.me/api/portraits/women/64.jpg"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440003",
+    "Email": "jessica@example.com",
+    "Gender": "female",
+    "DateOfBirth": "1999-11-08",
+    "DisplayName": "Jessica Taylor",
+    "Created": "2026-02-01T11:10:00Z",
+    "LastActive": "2026-04-04T20:30:00Z",
+    "Description": "Fashion designer with a passion for sustainable living. Netflix addict.",
+    "City": "San Francisco",
+    "Country": "USA",
+    "ImageUrl": "https://randomuser.me/api/portraits/women/63.jpg"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440004",
+    "Email": "james@example.com",
+    "Gender": "male",
+    "DateOfBirth": "1998-05-30",
+    "DisplayName": "James Anderson",
+    "Created": "2026-01-10T09:00:00Z",
+    "LastActive": "2026-04-05T10:20:00Z",
+    "Description": "Software engineer who loves running marathons. Always learning new things.",
+    "City": "Austin",
+    "Country": "USA",
+    "ImageUrl": "https://randomuser.me/api/portraits/men/65.jpg"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440005",
+    "Email": "michael@example.com",
+    "Gender": "male",
+    "DateOfBirth": "1997-09-12",
+    "DisplayName": "Michael Brown",
+    "Created": "2026-02-10T16:45:00Z",
+    "LastActive": "2026-04-05T07:00:00Z",
+    "Description": "Musician and music producer. Live for concerts and festivals.",
+    "City": "Nashville",
+    "Country": "USA",
+    "ImageUrl": "https://randomuser.me/api/portraits/men/64.jpg"
+  },
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440006",
+    "Email": "david@example.com",
+    "Gender": "male",
+    "DateOfBirth": "2000-01-25",
+    "DisplayName": "David Chen",
+    "Created": "2026-03-05T13:15:00Z",
+    "LastActive": "2026-04-05T11:30:00Z",
+    "Description": "Entrepreneur and startup founder. Love technology and innovation.",
+    "City": "Seattle",
+    "Country": "USA",
+    "ImageUrl": "https://randomuser.me/api/portraits/men/63.jpg"
+  }
+]
