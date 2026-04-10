@@ -9,7 +9,7 @@ namespace API.Controllers;
 public class MembersController(IMemberRepository memberRepository) : BaseApiController
 {
     [HttpGet]
-    public async Task<ActionResult<IReadOnlyList<AppUser>>> GetMembers()
+    public async Task<ActionResult<IReadOnlyList<Member>>> GetMembers()
     {
         return Ok(await memberRepository.GetMembersAsync());
     }

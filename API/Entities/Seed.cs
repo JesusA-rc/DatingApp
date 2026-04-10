@@ -31,7 +31,7 @@ public class Seed
                 Member = new Member
                 {
                     Id = member.Id,
-                    MyProperty = DateOnly.Parse(member.DateOfBirth),
+                    DateOfBirth = DateOnly.Parse(member.DateOfBirth),
                     ImageUrl = member.ImageUrl,
                     DisplayName = member.DisplayName,
                     Created = member.Created,

@@ -1,1 +1,12 @@
-<p>member-list works!</p>
+<div class="px-6 py-4">
+  <div class="grid grid-cols-5 gap-6">
+    @for (member of members(); track member.id) {
+      <app-member-card [member]="member"/>
+    }
+    @empty {
+      <div class="col-span-12 text-center text-xl text-neutral py-20">
+        No members found.
+      </div>
+    }
+  </div>
+</div>
